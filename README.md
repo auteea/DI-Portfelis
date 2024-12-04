@@ -16,9 +16,6 @@ Naudojant WEKA platformą, sukonstruotas daugiasluoksnis perceptronas (MLP). Atl
 ### 4. Vaizdų klasifikavimas (4 užduotis)
 Naudojant konvoliucinius neuroninius tinklus, buvo sprendžiamas vaizdų klasifikavimo uždavinys su „Muffin vs Chihuahua“ duomenų rinkiniu. Ištirta, kaip tinklo architektūra ir hiperparametrai veikia klasifikavimo tikslumą bei paklaidą. Sukurtas modelis pasiekė geriausius rezultatus optimizuojant architektūrą bei hiperparametrus.
 
-## Apibendrinimas
-Šios užduotys apima tiek teorinių dirbtinio intelekto pagrindų supratimą, tiek praktinių įgūdžių pritaikymą įvairiose srityse. Jos skirtos gilinti žinias apie dirbtinio intelekto algoritmus ir jų taikymą realiose problemose.
-
 ## Projekto struktūra
 - **Lab1_Artificial_Neuron**: Dirbtinis neuronas
 - **Lab2_Single_Neuron_Training**: Vieno neurono mokymas
